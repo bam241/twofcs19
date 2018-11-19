@@ -1,9 +1,9 @@
 # Site settings
 title: TWOFCS19
-email: katyhuff@gmail.com
+email: kdhuff@illinois.edu
 description: "Website for the 2019 Technical Workshop on Fuel Cycle Simulation"
 baseurl: "/twofcs19" # the subpath of your site, e.g. /blog
-url: "http://katyhuff.github.io" # the base hostname & protocol for your site
+url: "http://arfc.github.io" # the base hostname & protocol for your site
 twitter_username: katyhuff
 github_username: arfc
 logo: "/img/logo.svg"
